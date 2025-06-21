@@ -4,8 +4,8 @@ This repository contains the Privacy Policy and Terms of Service for the Work Ch
 
 ## Documents
 
-- **Privacy Policy**: [privacy-policy.html](privacy-policy.html) | [privacy-policy.tsx](privacy-policy.tsx)
-- **Terms of Service**: [terms-of-service.html](terms-of-service.html) | [terms-of-service.tsx](terms-of-service.tsx)
+- **Privacy Policy**: [privacy-policy.html](privacy-policy.html)
+- **Terms of Service**: [terms-of-service.html](terms-of-service.html)
 
 ## About Work Chain Bazaar
 
@@ -28,4 +28,4 @@ For questions about these legal documents, please contact us through the Work Ch
 
 ---
 
-These documents are published to comply with Google Play Store requirements for app store submissions.
+These HTML documents are published to comply with Google Play Store requirements for app store submissions. They provide publicly accessible URLs for privacy policy and terms of service that can be referenced in app store listings.
